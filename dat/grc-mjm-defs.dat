@@ -590,10 +590,10 @@
 @Ῥέα|Rhea|ML
 Διός|Zeus|Major
 Ζεύς|Zeus|Major
-Θηβαῖος|Theban|VGorman
-Καρχηδόνιος|Carthaginian|VGorman
-Καῖσαρ|Caesar|VGorman
-Λακεδαιμόνιος|Lacedaemonian|VGorman
+Θηβαῖος|Theban|ML
+Καρχηδόνιος|Carthaginian|ML
+Καῖσαρ|Caesar|ML
+Λακεδαιμόνιος|Lacedaemonian|ML
 αүρμόζω|join|Major
 αἰ|if|ML
 αἰάζω|to cry|ML
@@ -4959,7 +4959,7 @@
 εὐθύδικος|righteous-judging|ML
 εὐθύνω|to guide straight, direct|ML
 εὐθύπορος|going straight|ML
-εὐθύς|straight|Major
+εὐθύς|straight, directly, immediately|Major
 εὐθύσανος|well-fringed|ML
 εὐθύφρων|right-minded|ML
 εὐθύωρος|in a straight direction|ML
@@ -6109,7 +6109,7 @@
 θηλύτης|womanishness, delicacy, effeminacy|ML
 θημολογέω|to collect in a heap|ML
 θημών|a heap|ML
-θηναῖος|Athenian|VGorman
+θηναῖος|Athenian|ML
 θηράσιμος|to be hunted down or caught|ML
 θηράτωρ|= θηρατήρ, Il.|ML
 θηράω|to hunt or chase|ML
@@ -22355,7 +22355,7 @@
 τυρίσδω|doric for συρίζω.|ML
 τυραννίζω|to take the part of tyrants|ML
 τυραννίς|tyranny|Major
-τυραννεύω|to be a|ML
+τυραννεύω|to be a tyrant|ML
 τυραννικός|of or for a despotic ruler, royal, princely|ML
 τυραννοκτονέω|to slay a tyrant|ML
 τυραννοκτονία|the slaying of a tyrant|ML
@@ -29647,7 +29647,7 @@
 ἄργιλλος|white clay, potter's earth|ML
 ἄργμα|the firstlings|ML
 ἄργος|name of several Greek cities, of which the Peloponnesian is the best known, called by Hom. Ἀ. Ἀχαιικόν, to distinguish it from Ἀ. Πελασγικόν. The former name comprehends all Argolis; the latter, all Thessaly.|ML
-ἄργυρος|white metal|ML
+ἄργυρος|silver|ML
 ἄργυφος|silver-white|ML
 ἄρδην|lifted up, on high|ML
 ἄρδις|the point of|ML
@@ -29913,9 +29913,9 @@
 ἆσθμα|a breath, breathing|ML
 ἆσσον|nearer, very near|ML
 ἇς|Aeol. and Dor for ἕως.|ML
-Ἀθηναῖος|Athenian|VGorman
-Ἀλέξανδρος|Alexander|VGorman
-Ἀπόλλων|Apollo|VGorman
+Ἀθηναῖος|Athenian|ML
+Ἀλέξανδρος|Alexander|ML
+Ἀπόλλων|Apollo|ML
 ἐάν|εἰ + ἄν|Major
 ἐάω|allow|Major
 ἐή|exclam., like ἔ or ἔ ἔ.|ML
@@ -35698,7 +35698,7 @@
 ὁπλάριον|Dim. of ὅπλον, Plut.|ML
 ὁπλέω|to make ready|ML
 ὁπλή|a hoof, the solid hoof|ML
-ὁπλίζω|to make or get ready|ML
+ὁπλίζω|to make or get ready, arm|ML
 ὁπλίτης|heavily‐armed soldier, hoplite|Major
 ὁπλισμός|= ὅπλισις, Aesch.|ML
 ὁπλιστέος|one must arm|ML
