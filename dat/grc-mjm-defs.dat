@@ -503,8 +503,8 @@
 @ἔναυλος|the bed of a stream, a torrent, mountain-stream|ML
 @ἔναυλος1|the bed of a stream, a torrent, mountain-stream|ML
 @ἔναυλος2|on or to the flute|ML
-@ἔξοδος|a going out|ML
-@ἔξοδος1|a going out|ML
+@ἔξοδος|expedition, procession|ML
+@ἔξοδος1|expedition, procession|ML
 @ἔξοδος2|promoting the passage|ML
 @ἔπειμι|to come upon|ML
 @ἔπειμι1|to be upon|ML
@@ -3305,7 +3305,7 @@
 διαρκέω|to have full strength, be quite sufficient|ML
 διαρκής|quite sufficient|ML
 διαρμόζω|to distribute in various places, dispose|ML
-διαρπάζω|to tear in pieces|ML
+διαρπάζω|plunder|ML
 διαρρέω|to flow through|ML
 διαρρήγνυμι|to break through, cleave asunder|ML
 διαρρήδην|expressly, distinctly, explicitly|ML
@@ -4351,7 +4351,7 @@
 δόξασμα|an opinion, notion, conjecture|ML
 δόρατος|spear|Major
 δόρπον|the evening meal|ML
-δόρυ|spear|Major
+δόρυ|a stem, tree,spear shaft|Major
 δόσις|a giving|ML
 δόχμιος|across, athwart, aslant|ML
 δύη|woe, misery, anguish, pain|ML
@@ -5318,8 +5318,8 @@
 εὐώδης|sweet-smelling, fragrant|ML
 εὐώδιν|happy as a parent, fruitful|ML
 εὐώλενος|fair-armed|ML
-εὐώνυμος|of good name, honoured|ML
-εὐώνυμος1|of good name, honoured|ML
+εὐώνυμος|of good name, on the left side|ML
+εὐώνυμος1|of good name, on the left side|ML
 εὐώψ|fair to look on|ML
 εὐῶπις|fair to look on|ML
 εὑρήτωρ|= εὑρετής, Anth.|ML
@@ -6585,7 +6585,7 @@
 κένωσις|an emptying|ML
 κέπφος|a booby|ML
 κέραμος|potter's earth, potter's clay|ML
-κέρας|horn|Major
+κέρας|the horn of an animal, the wing of an army|Major
 κέρβερος|Cerberus|ML
 κέρδος|gain, profit, advantage|ML
 κέρκος|the tail|ML
@@ -7437,7 +7437,7 @@
 κατακόπτω|to cut down, cut in pieces, cut up|ML
 κατακύπτω|to bend down, stoop|ML
 καταλάμπω|to shine upon or over|ML
-καταλέγω|to lay down|ML
+καταλέγω|recount, reckon|ML
 καταλέω|to grind down|ML
 καταλήγω|to leave off, end, stop|ML
 καταλήθομαι|to forget utterly|ML
@@ -9531,7 +9531,7 @@
 λέχρις|crosswise|ML
 λέων|a lion|ML
 λέως|entirely, wholly|ML
-λήγω|to stay, abate|ML
+λήγω|end, stop|ML
 λήθαιος|of or from Lethe, Lethean|ML
 λήθαργος|forgetful|ML
 λήθη|a forgetting, forgetfulness|ML
@@ -10344,7 +10344,7 @@
 λόχμη|a thicket, coppice, copse|ML
 λόχμιος|= λοχμαῖος, Anth.|ML
 λόχονδε|to ambush, for an ambuscade|ML
-λόχος|an ambush|ML
+λόχος|ambush, armed band|ML
 λύα|doric for λύη.|ML
 λύγδην|with sobs|ML
 λύγδινος|of white marble|ML
@@ -10551,7 +10551,7 @@
 μέτειμι|@|ML
 μέτειμι1|@|ML
 μέτειμι2|@|ML
-μέτοικος|changing one's abode, emigrating and settling elsewhere|ML
+μέτοικος|metic, resident alien|ML
 μέτοχος|sharing in, partaking of|ML
 μέτρημα|a measured distance|ML
 μέτρησις|measuring, measurement|ML
@@ -16484,7 +16484,7 @@
 πρέσβος|an object of reverence|ML
 πρέσβυς|ambassador (esp. in pl.), old man|Major
 πρήθω|to blow up, swell out by blowing|ML
-πρίαμαι|to have|ML
+πρίαμαι|buy|ML
 πρίαμος|Priam|ML
 πρίαπος|Priapus|ML
 πρίν|before|Major
@@ -20665,7 +20665,7 @@
 συντράπεζος|a messmate|ML
 συντρέφω|to feed together or besides|ML
 συντρέχω|to run together so as to meet, to encounter|ML
-συντρίβω|to rub together|ML
+συντρίβω|shatter, crush|ML
 συντραγῳδέω|to act tragedy together|ML
 συντριήραρχος|a partner in the equipment of a trireme|ML
 συντριαινόω|to shatter as with a trident|ML
@@ -21154,7 +21154,7 @@
 τάνις|a town in lower Egypt|ML
 τάνταλος|Tantalus|ML
 τάνυμαι|to be stretched|ML
-τάξις|arrangement, order|Major
+τάξις|deployment, order of battle|Major
 τάξος|the yew-tree|ML
 τάπης|a carpet, rug|ML
 τάπις|= δάπις, τάπης, Xen.|ML
@@ -26656,7 +26656,7 @@
 ἀντίξοος|opposed, adverse|ML
 ἀντίος|set against|ML
 ἀντίπαις|like a boy or child|ML
-ἀντίπαλος|wrestling against|ML
+ἀντίπαλος|matched,balanced|ML
 ἀντίπετρος|like stone, rocky|ML
 ἀντίπηξ|a kind of cradle|ML
 ἀντίπνοος|caused by adverse winds|ML
@@ -27789,7 +27789,7 @@
 ἀπορέπω|to slink away|ML
 ἀπορέω|to be without means or resource|ML
 ἀπορέω2|to be without means or resource|ML
-ἀπορία|helplessness|Major
+ἀπορία|difficulty, perplexity, being at a loss, helplessness|Major
 ἀπορητικός|inclined to doubt|ML
 ἀπορθόω|to make straight, guide aright|ML
 ἀπορούω|to dart away|ML
@@ -31198,7 +31198,7 @@
 ἐξαίτησις|a demanding|ML
 ἐξαίφνης|suddenly|Major
 ἐξαγίζω|to drive out as accursed|ML
-ἐξαγγέλλω|to send out|ML
+ἐξαγγέλλω|proclaim|ML
 ἐξαγγελία|information sent out|ML
 ἐξαγινέω|to lead forth|ML
 ἐξαγοράζω|to buy up|ML
@@ -32626,7 +32626,7 @@
 ἐπιτέμνω|to cut on the surface, make an incision|ML
 ἐπιτέρπομαι|to rejoice or delight in|ML
 ἐπιτέχνησις|contrivance for|ML
-ἐπιτήδειος|convenient|Major
+ἐπιτήδειος|convenient, useful, necessary|Major
 ἐπιτήδευμα|a pursuit, business, practice|ML
 ἐπιτήδευσις|devotion or attention to|ML
 ἐπιτήκω|to melt upon, pour when melted over|ML
@@ -34805,7 +34805,7 @@
 ἴγδις|a mortar|ML
 ἴδη|@|ML
 ἴδη1|@|ML
-ἴδιος|oneʹs own|Major
+ἴδιος|private, personal|Major
 ἴδμων|skilled, skilful|ML
 ἴδρις|experienced, knowing, skilful|ML
 ἴθμα|a step, motion|ML
@@ -37062,7 +37062,7 @@
 ὕπερος|a pestle to bray and pound with|ML
 ὕπνος|sleep|Major
 ὕπομβρος|mixed with rain|ML
-ὕποπτος|looked at from beneath|ML
+ὕποπτος|suspected, viewed with jealousy|ML
 ὕπουλος|festering under the scar|ML
 ὕποχος|subject|ML
 ὕπτιος|laid back, laid on one's back|ML
@@ -37215,7 +37215,7 @@
 ὥριος|produced in season|ML
 ὥς|like as, even as, just as|ML
 ὥσπερ|just as, as if|Major
-ὥστε|that (result)|Major
+ὥστε|as a result, therefore|Major
 ὦ|O! oh!|Major
 ὦκα|quickly, swiftly, fast|ML
 ὦλαξ|doric for αὖλαξ.|ML
@@ -37525,3 +37525,4 @@
 ῥῦμα2|that which is drawn|ML
 ῥῶ|Ρ, ρ, ῥῶ, τό, indecl., seventeenth letter of Gr. Alphabet, as numeral ρ# ῀ 100, but #22ρ͂ 100, 000. Dialectic and other changes:|ML
 ῥῶπος|petty wares|ML
+ἐκμίτνω|see ἐκπίπτω [fall out, be driven out]|ML
